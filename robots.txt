@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bairgk.github.io/shp/sitemap.shp.gz
